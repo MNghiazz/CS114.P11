@@ -1,6 +1,6 @@
 <h1 align="center"><b>CS114.P11 - MÁY HỌC</b></h1>
 
-##GIỚI THIỆU BẢN THÂN
+## GIỚI THIỆU BẢN THÂN
 * **Tên**: Hà Minh Nghĩa
 * **MSSV**: 21522373
 * **Lớp sinh hoạt**: KHCL2021.2
